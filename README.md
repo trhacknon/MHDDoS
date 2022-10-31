@@ -4,11 +4,11 @@
 <em><h5 align="center">(Programming Language - Python 3)</h5></em>
 
 <p align="center">
-<a href="#"><img alt="MH-DDoS forks" src="https://img.shields.io/github/forks/MatrixTM/MHDDoS?style=for-the-badge"></a>
-<a href="#"><img alt="MH-DDoS last commit (main)" src="https://img.shields.io/github/last-commit/MatrixTM/MHDDoS/main?color=green&style=for-the-badge"></a>
-<a href="#"><img alt="MH-DDoS Repo stars" src="https://img.shields.io/github/stars/MatrixTM/MHDDoS?style=for-the-badge&color=yellow"></a>
-<a href="#"><img alt="MH-DDoS License" src="https://img.shields.io/github/license/MatrixTM/MHDDoS?color=orange&style=for-the-badge"></a>
-<a href="https://github.com/MatrixTM/MHDDoS/issues"><img alt="MatrixTM issues" src="https://img.shields.io/github/issues/MatrixTM/MHDDoS?color=purple&style=for-the-badge"></a>
+<a href="#"><img alt="MH-DDoS forks" src="https://img.shields.io/github/forks/trhacknon/MHDDoS?style=for-the-badge"></a>
+<a href="#"><img alt="MH-DDoS last commit (main)" src="https://img.shields.io/github/last-commit/trhacknon/MHDDoS/main?color=green&style=for-the-badge"></a>
+<a href="#"><img alt="MH-DDoS Repo stars" src="https://img.shields.io/github/stars/trhacknon/MHDDoS?style=for-the-badge&color=yellow"></a>
+<a href="#"><img alt="MH-DDoS License" src="https://img.shields.io/github/license/trhacknon/MHDDoS?color=orange&style=for-the-badge"></a>
+<a href="https://github.com/MatrixTM/MHDDoS/issues"><img alt="MatrixTM issues" src="https://img.shields.io/github/issues/trhacknon/MHDDoS?color=purple&style=for-the-badge"></a>
   
 <p align="center">Please Don't Attack websites without the owners consent.</p>
 
@@ -96,7 +96,7 @@ Our social's💻
 </div>
 
  * [Matrix Team Telegram group](https://t.me/DD0SChat)
- * [Matrix community Telegram channel](https://t.me/MatrixORG)
+ * [Matrix community Telegram channel](https://t.me/)
  * [GitHub] : [github]
 ### If u Like the project Leave a star on the repository!
 
@@ -138,7 +138,7 @@ You can read it from [GitHub Wiki](https://github.com/MatrixTM/MHDDoS/wiki)
 **Clone and Install Script**
 
 ```shell script
-git clone https://github.com/MatrixTM/MHDDoS.git
+git clone https://github.com/trhacknon/MHDDoS.git
 cd MHDDoS
 pip install -r requirements.txt
 ```
@@ -150,15 +150,15 @@ apt -y update && apt -y install curl wget libcurl4 libssl-dev python3 python3-pi
 ```
 
 [python3]: https://python.org 'Python3'
-[github]: https://github.com/MatrixTM/MHDDoS/issues 'GitHub'
+[github]: https://github.com/trhacknon/MHDDoS/issues 'GitHub'
 
 ---
 
 **💰 Donation Links:**
 #### Donate Links
 
-<b>BTC</b>: <code>bc1q7dhut0fp3sqmz95kth0munte6exzlrne23jtjh</code></br>
-<b>ETH</b>: <code>0xff2fAF77705de1b842fCbA29c95E5C9e7dc266Dc</code></br>
-<b>USDT TRC20</b>: <code>TNeZtxhaYYseJoUS2LWmao6cDbYciprhKz</code></br></br>
-<b>Toman</b>: https://idpay.ir/mh-prodev</br>
+<b>BTC</b>: 
+<b>ETH</b>: 
+<b>USDT TRC20</b>: 
+<b>Toman</b>: </br>
 
